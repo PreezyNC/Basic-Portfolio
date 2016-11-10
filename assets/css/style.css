@@ -1,0 +1,89 @@
+
+#linkedin {
+	width: 60px;
+	height: 60px;
+}
+
+#bio-image {
+	width: 160px;
+	height: 160px;
+}
+
+#about {
+	border-style: solid;
+	text-align: left;
+	margin-left: 50px;
+	margin-right: 600px;
+}
+
+#contact {
+	border-style: solid;
+	margin-left: 50px;
+	margin-right: 600px;
+}
+
+#portfolio {
+	border-style: solid;
+	margin-left:50px;
+	margin-right: 600px;
+}
+
+#connect {
+
+}
+nav {
+	float: right;
+	border-style: solid;
+}
+
+li {
+	display: inline;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+mark {
+	margin-left: 100px;
+	padding: 20px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h2 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+p {
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+aside {
+	margin-left: 800px;
+	margin-right: 200px;
+}
+
+header {
+	background-color: #ffffff;
+	border-color: #cccccc;
+	border-style: none;
+}
+
+aside {
+	border-style: solid;
+}
+
+footer {
+	background-color: #666666;
+}
+
+footer p {
+	padding: 30px;
+	color: #ffffff;
+	text-align: center;
+}
+
+#about {
+	background-color: #ffffff;
+}
